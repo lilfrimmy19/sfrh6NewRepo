@@ -8,13 +8,13 @@
 
 ## List of diagrams:
 
-	*First here is our in-class Entity Relationship Diagram
-		*![Entity Relationship](/assignmentThree/entityRelationship.jpg)
+*First here is our in-class Entity Relationship Diagram
+	*![Entity Relationship](/assignmentThree/entityRelationship.jpg)
 
-	*Second, here is our in-class Class Diagram
-		*![Class Diagram](/assignmentThree/classdiagram.jpg)
+*Second, here is our in-class Class Diagram
+	*![Class Diagram](/assignmentThree/classdiagram.jpg)
 
-	*Third, here is our second in-class Class Diagram
-		*![Class Diagram - One](/assignmentThree/classdiagram_one.jpg)
+*Third, here is our second in-class Class Diagram
+	*![Class Diagram - One](/assignmentThree/classdiagram_one.jpg)
 
 That is all for now
