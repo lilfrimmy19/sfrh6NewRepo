@@ -23,6 +23,8 @@
 *Fifth, here is the Sequence Diagram we created detailing the process of logging in and out of the system
 	*![Sequence Diagram - Logging In/Out](/assignmentThree/SequenceDiagram(sfrh6).png)
 
+*Sixth, here is our Group's Entity Relationship diagram for the system
+	*![Entity Model Diagram(official)](/assignmentThree/Group13_ERD.png)
 
 
 That is all for now
