@@ -14,16 +14,13 @@
 *Second, here is our in-class Class Diagram
 	*![Class Diagram](/assignmentThree/classdiagram.jpg)
 
-*Third, here is our second in-class Class Diagram
-	*![Class Diagram - One](/assignmentThree/classdiagram_one.jpg)
-
-*Fourth, here is the Activity Diagram I worked on the process of showing how professors can create/edit/delete/view their courses/sections 
+*Three, here is the Activity Diagram I worked on the process of showing how professors can create/edit/delete/view their courses/sections 
 	*![Activity Diagram - Professors: Create/Edit courses](/assignmentThree/ActivityDiagram(sfrh6).png)
 
-*Fifth, here is the Sequence Diagram we created detailing the process of logging in and out of the system
+*Four, here is the Sequence Diagram we created detailing the process of logging in and out of the system
 	*![Sequence Diagram - Logging In/Out](/assignmentThree/SequenceDiagram(sfrh6).png)
 
-*Sixth, here is our Group's Entity Relationship diagram for the system
+*Fifth, here is our Group's Entity Relationship diagram for the system
 	*![Entity Model Diagram(official)](/assignmentThree/Group13_ERD.png)
 
 
